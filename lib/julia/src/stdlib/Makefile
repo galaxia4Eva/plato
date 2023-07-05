@@ -1,0 +1,1 @@
+include $(JULIAROOT)/stdlib/Makefile
