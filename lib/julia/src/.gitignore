@@ -1,0 +1,18 @@
+# environment
+.env
+# build artifacts
+/julia
+/base/**/*.jl
+/cli/**/*.expmap
+/cli/**/*.o
+/deps/**/*
+/src/flisp/**/*
+/src/**/*.a
+/src/**/*.boot
+/src/**/*.expmap
+/src/**/*.inc
+/src/**/*.h
+/src/**/*.o
+/stdlib/**/*
+/usr/**/*
+/usr-staging/**/*
